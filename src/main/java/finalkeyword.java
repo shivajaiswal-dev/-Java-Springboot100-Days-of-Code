@@ -3,7 +3,7 @@ public class finalkeyword
 public static void main(String[] args)
 {
     final  int k =90;
-    k++;
+    //k++;
 
 }
 }
